@@ -7,7 +7,7 @@ skillsid: 88
 location: Spokane
 position: "Sales Manager"
 skillMatch: 20
-availability: 10
+availability: 2
 internal: true
 categories: 
 - employees

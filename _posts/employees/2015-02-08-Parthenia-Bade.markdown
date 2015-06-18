@@ -7,7 +7,7 @@ skillsid: 62
 location: Portland
 position: "Sales Manager"
 skillMatch: 20
-availability: 10
+availability: 58
 internal: true
 categories: 
 - employees

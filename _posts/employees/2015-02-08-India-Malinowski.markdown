@@ -7,7 +7,7 @@ skillsid: 47
 location: Cincinnati
 position: "Sales Manager"
 skillMatch: 20
-availability: 10
+availability: 51
 internal: true
 categories: 
 - employees

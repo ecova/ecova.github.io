@@ -7,7 +7,7 @@ skillsid: 2
 location: undefined
 position: "Sales Manager"
 skillMatch: 20
-availability: 10
+availability: 20
 internal: true
 categories: 
 - employees

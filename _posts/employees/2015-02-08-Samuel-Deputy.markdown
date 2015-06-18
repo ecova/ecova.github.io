@@ -7,7 +7,7 @@ skillsid: 82
 location: Atlanta
 position: "Sales Manager"
 skillMatch: 20
-availability: 10
+availability: 44
 internal: true
 categories: 
 - employees
